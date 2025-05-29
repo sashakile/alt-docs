@@ -1,0 +1,2 @@
+# alt-docs
+Documentación Alternativa
